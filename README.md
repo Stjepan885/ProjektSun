@@ -20,7 +20,7 @@ pametnih uređaja.
 <h2>Početni zaslon</h2>
 Podaci o električnoj energiji u stvarnom vremen
 
-![MainPage](https://github.com/user-attachments/assets/b5e5450f-8215-4567-9473-96c290271158)
+![MainPage](images/385384397-b5e5450f-8215-4567-9473-96c290271158.png)
 
 Komunikacija između računala i invertera omogućena je putem USB kabela. USB kabel uspostavlja fizičku vezu između računala i invertera. Ovaj protokol omogućuje računalu da prima podatke o proizvodnji solarne energije i potrošnji, te da šalje naredbe inverteru prema potrebi.
 Na gornjoj slici prikazane su sve ključne informacije o solarnoj stanici. U donjem lijevom kutu nalazi se grafički prikaz koji vizualizira podatke, dok se u donjem desnom kutu nalazi popis svih aktivnih pametnih prekidača.
@@ -38,7 +38,7 @@ Elementi jednog trošila u listi su:
 
 Za svaki prekidač moguće je prilagoditi maksimalno opterećenje i snagu trošila koja je na njega spojena. Također, prekidači mogu biti i dualni, što znači da mogu upravljati s dva odvojena trošila. U tom slučaju potrebno je specificirati ime i snagu svakog pojedinačnog izlaza (trošila) povezanog s prekidačem.
 
-![SmartDevice edit](https://github.com/user-attachments/assets/e3580673-1021-4eed-a6ff-de55a54e8589)
+![SmartDevice edit](images/385385454-e3580673-1021-4eed-a6ff-de55a54e8589.png)
 
 Automatska kontrola potrošnje energije
 
@@ -49,7 +49,7 @@ Ako je prvi prekidač u listi "Active" uključen, ali nema dovoljno energije za 
 
 <h2>Settings</h2>
 
-![settings](https://github.com/user-attachments/assets/a3d2d97a-7454-47dd-8b0b-89c4c8b0f0c0)
+![settings](images/385385736-a3d2d97a-7454-47dd-8b0b-89c4c8b0f0c0.png)
 
 Rates (Brzine)
 - U ovom dijelu se mogu prilagoditi intervali za različite funkcije aplikacije. To uključuje intervale skeniranja uređaja, učestalost spremanja podataka tijekom dana i noći, te intervale ažuriranja i resetiranja grafa
